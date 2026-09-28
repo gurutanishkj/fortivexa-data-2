@@ -1,0 +1,172 @@
+[
+  {
+    "index": 0,
+    "timestamp": "2026-01-01T00:00:00Z",
+    "officer_id": "SYSTEM_ROOT_MHA",
+    "action": "GENESIS_INITIALIZATION",
+    "details": {
+      "system": "FORTIVEXA Cybercrime Intelligence Platform",
+      "authority": "Ministry of Home Affairs - Indian Cyber Crime Coordination Centre (I4C)",
+      "problem_statement": "SIH26184",
+      "hashing_algorithm": "SHA-256 Merkle-Linked Hash-Chain"
+    },
+    "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+    "current_hash": "a95d77e483a9a23b1ac392e8c2daaba72460c74e1c5dc0c484f7fc899a66cfd3"
+  },
+  {
+    "index": 1,
+    "timestamp": "2026-09-28T15:24:58.012865Z",
+    "officer_id": "OFFICER_DL_4091",
+    "action": "CASE_INGESTION",
+    "details": {
+      "complaint_id": "CMP-2026-00001",
+      "amount": 1500000
+    },
+    "previous_hash": "a95d77e483a9a23b1ac392e8c2daaba72460c74e1c5dc0c484f7fc899a66cfd3",
+    "current_hash": "d4214f4d2c6bda23ec33503ff35a6b79c3dce4803c078cb93a9f234424225e10"
+  },
+  {
+    "index": 2,
+    "timestamp": "2026-09-28T15:24:58.017863Z",
+    "officer_id": "OFFICER_DL_4091",
+    "action": "PREDICTION_RUN",
+    "details": {
+      "complaint_id": "CMP-2026-00001",
+      "predicted_atm": "ATM_NCR_0042",
+      "confidence": 98.5
+    },
+    "previous_hash": "d4214f4d2c6bda23ec33503ff35a6b79c3dce4803c078cb93a9f234424225e10",
+    "current_hash": "e95ebc1468026a643a63f5cdfe0790737ec27ef1648456e3f67edaffd37f0da7"
+  },
+  {
+    "index": 3,
+    "timestamp": "2026-09-28T15:24:58.019863Z",
+    "officer_id": "SUPERVISOR_SP_01",
+    "action": "DOSSIER_DISPATCH",
+    "details": {
+      "dossier_id": "DOS-2026-0091",
+      "status": "APPROVED"
+    },
+    "previous_hash": "e95ebc1468026a643a63f5cdfe0790737ec27ef1648456e3f67edaffd37f0da7",
+    "current_hash": "76aa5c7807bd7b7f437b94574a2f01540656e714e4f30206c2ccd031c83c3cbd"
+  },
+  {
+    "index": 4,
+    "timestamp": "2026-09-28T15:26:42.790462Z",
+    "officer_id": "IO-TEST-99",
+    "action": "PREDICTION_RUN",
+    "details": {
+      "complaint_id": "CMP-2026-00005",
+      "amount_lost": 2500000.0,
+      "target_area": "Dadar West, Mumbai MMR (400028)",
+      "primary_atm": "ATM_MUM_0041",
+      "confidence_pct": 98.5,
+      "latency_ms": 95.82
+    },
+    "previous_hash": "76aa5c7807bd7b7f437b94574a2f01540656e714e4f30206c2ccd031c83c3cbd",
+    "current_hash": "73f371092cae1576eccda0631fcd3a638a49248e8e3000bb4bf23533a78e376c"
+  },
+  {
+    "index": 5,
+    "timestamp": "2026-09-28T15:27:14.225562Z",
+    "officer_id": "IO-TEST-99",
+    "action": "PREDICTION_RUN",
+    "details": {
+      "complaint_id": "CMP-2026-00005",
+      "amount_lost": 2500000.0,
+      "target_area": "Dadar West, Mumbai MMR (400028)",
+      "primary_atm": "ATM_MUM_0041",
+      "confidence_pct": 98.5,
+      "latency_ms": 48.36
+    },
+    "previous_hash": "73f371092cae1576eccda0631fcd3a638a49248e8e3000bb4bf23533a78e376c",
+    "current_hash": "aa10154c0323f8204590e809003ccb3b4560261bcff760b39da6ecbadb9acf2c"
+  },
+  {
+    "index": 6,
+    "timestamp": "2026-09-28T15:27:35.027398Z",
+    "officer_id": "IO-TEST-99",
+    "action": "DOSSIER_DISPATCH",
+    "details": {
+      "dossier_id": "DOS-00005-9255",
+      "complaint_id": "CMP-2026-00005",
+      "target_atm": "ATM_MUM_0012",
+      "amount_lost": 2500000.0,
+      "confidence_score": 98.5
+    },
+    "previous_hash": "aa10154c0323f8204590e809003ccb3b4560261bcff760b39da6ecbadb9acf2c",
+    "current_hash": "aaac55a85d4bb5a5c5b5d5d92fe4e462cfcaa4de6135d665624df6d725a7a7cd"
+  },
+  {
+    "index": 7,
+    "timestamp": "2026-09-28T15:33:33.802393Z",
+    "officer_id": "IO-MHA-8821",
+    "action": "PREDICTION_RUN",
+    "details": {
+      "complaint_id": "CMP-2026-00001",
+      "modus": "Credit Card Fraud",
+      "amount": 235097.06,
+      "time_elapsed": 51,
+      "primary_atm": "ATM_KOL_0112",
+      "target_area": "Howrah Station South, Kolkata (700001)",
+      "confidence": 98.5,
+      "latency_ms": 200.69
+    },
+    "previous_hash": "aaac55a85d4bb5a5c5b5d5d92fe4e462cfcaa4de6135d665624df6d725a7a7cd",
+    "current_hash": "32af3b1552442066e908d32f590982052f0e46abe4a2cdb2fb2db5e463575729"
+  },
+  {
+    "index": 8,
+    "timestamp": "2026-09-28T15:34:09.609541Z",
+    "officer_id": "IO-MHA-8821",
+    "action": "PREDICTION_RUN",
+    "details": {
+      "complaint_id": "CMP-2026-90412",
+      "modus": "Digital Arrest",
+      "amount": 1850000.0,
+      "time_elapsed": 40,
+      "primary_atm": "ATM_MUM_0041",
+      "target_area": "Dadar West, Mumbai MMR (400028)",
+      "confidence": 98.5,
+      "latency_ms": 38.09
+    },
+    "previous_hash": "32af3b1552442066e908d32f590982052f0e46abe4a2cdb2fb2db5e463575729",
+    "current_hash": "9dff11a1a1684e01bc9c72e4b0e022c90c5d2c55eefdc36a099d37740fe59755"
+  },
+  {
+    "index": 9,
+    "timestamp": "2026-09-28T15:38:03.075158Z",
+    "officer_id": "TEST_RUNNER",
+    "action": "TRL5_DOSSIER_CHECK",
+    "details": {
+      "case": "CMP-2026-00001",
+      "target_atm": "ATM_MUM_0041"
+    },
+    "previous_hash": "9dff11a1a1684e01bc9c72e4b0e022c90c5d2c55eefdc36a099d37740fe59755",
+    "current_hash": "e7b59f21755410a698d2041a4d3f7298eb38947436e02fc8ecd240c5f76b5310"
+  },
+  {
+    "index": 10,
+    "timestamp": "2026-09-28T15:38:28.728010Z",
+    "officer_id": "TEST_RUNNER",
+    "action": "TRL5_DOSSIER_CHECK",
+    "details": {
+      "case": "CMP-2026-00001",
+      "target_atm": "ATM_MUM_0041"
+    },
+    "previous_hash": "e7b59f21755410a698d2041a4d3f7298eb38947436e02fc8ecd240c5f76b5310",
+    "current_hash": "9ffcb66623f1044cad94e43d8eab1c593c68ba0571ad1c00355c3d165b33ad6d"
+  },
+  {
+    "index": 11,
+    "timestamp": "2026-09-28T15:42:59.029076Z",
+    "officer_id": "TEST_RUNNER",
+    "action": "TRL5_DOSSIER_CHECK",
+    "details": {
+      "case": "CMP-2026-00001",
+      "target_atm": "ATM_MUM_0041"
+    },
+    "previous_hash": "9ffcb66623f1044cad94e43d8eab1c593c68ba0571ad1c00355c3d165b33ad6d",
+    "current_hash": "1ad786318f15b704cf67b80a577407c1448f6cb21f5368ddfc8092a52ba01517"
+  }
+]

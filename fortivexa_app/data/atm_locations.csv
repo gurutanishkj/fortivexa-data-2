@@ -1,0 +1,151 @@
+ATM_ID,Bank_Name,Metro_Corridor,Zone,Target_Pincode,ATM_Lat,ATM_Lon,Branch_ID,Branch_Distance_M,Past_Cashout_Hits,Daily_Cash_Limit,Has_Biometric_KYC,QRT_Unit
+ATM_DEL_0001,HDFC Bank,Delhi NCR,Connaught Place,110001,28.67247,77.13571,BR_HDF_001,2283,18,20000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0002,SBI,Delhi NCR,Connaught Place,110001,28.47811,77.13143,BR_SBI_001,864,8,100000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0003,Canara Bank,Delhi NCR,Noida Sector 18,201301,28.53346,77.35426,BR_CAN_301,1781,2,50000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0004,ICICI Bank,Delhi NCR,Karol Bagh,110005,28.73716,77.16781,BR_ICI_005,1520,18,50000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0005,SBI,Delhi NCR,Noida Sector 62,201309,28.58783,77.09369,BR_SBI_309,2311,1,50000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0006,Axis Bank,Delhi NCR,Noida Sector 62,201309,28.47087,77.28144,BR_AXI_309,1003,1,20000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0007,Punjab National Bank,Delhi NCR,Gurugram Cyber City,122002,28.64071,77.17769,BR_PUN_002,1143,3,20000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0008,Axis Bank,Delhi NCR,Karol Bagh,110005,28.58868,77.14448,BR_AXI_005,2331,11,40000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0009,SBI,Delhi NCR,Karol Bagh,110005,28.69654,77.33177,BR_SBI_005,914,1,50000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0010,Canara Bank,Delhi NCR,Gurugram Cyber City,122002,28.7154,77.275,BR_CAN_002,1060,20,50000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0011,Kotak Mahindra Bank,Delhi NCR,Rohini Sector 10,110085,28.5158,77.39914,BR_KOT_085,242,1,20000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0012,ICICI Bank,Delhi NCR,Noida Sector 62,201309,28.57665,77.07223,BR_ICI_309,2217,7,50000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0013,HDFC Bank,Delhi NCR,Noida Sector 62,201309,28.71544,77.31281,BR_HDF_309,506,5,50000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0014,ICICI Bank,Delhi NCR,Gurugram Cyber City,122002,28.45097,77.30273,BR_ICI_002,781,8,20000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0015,Axis Bank,Delhi NCR,Karol Bagh,110005,28.56217,77.10654,BR_AXI_005,52,8,50000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0016,SBI,Delhi NCR,Connaught Place,110001,28.72873,77.35755,BR_SBI_001,1030,4,20000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0017,HDFC Bank,Delhi NCR,Connaught Place,110001,28.66957,77.33561,BR_HDF_001,565,8,40000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0018,ICICI Bank,Delhi NCR,Rohini Sector 10,110085,28.6083,77.26231,BR_ICI_085,873,8,50000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0019,Bank of Baroda,Delhi NCR,Gurugram Cyber City,122002,28.71988,77.20802,BR_BAN_002,1434,16,20000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0020,Axis Bank,Delhi NCR,Connaught Place,110001,28.4713,77.27089,BR_AXI_001,1403,14,20000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0021,Punjab National Bank,Delhi NCR,Noida Sector 62,201309,28.59562,77.23873,BR_PUN_309,2410,9,100000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0022,Canara Bank,Delhi NCR,Gurugram Cyber City,122002,28.50712,77.08393,BR_CAN_002,1733,6,100000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0023,HDFC Bank,Delhi NCR,Connaught Place,110001,28.57079,77.16876,BR_HDF_001,834,3,40000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0024,ICICI Bank,Delhi NCR,Gurugram Cyber City,122002,28.50505,77.21192,BR_ICI_002,1865,1,20000,True,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_DEL_0025,SBI,Delhi NCR,Connaught Place,110001,28.72791,77.34704,BR_SBI_001,2021,43,40000,False,NCR Cyber Cell Special Task Force (Mandir Marg / Cyber City Gurugram)
+ATM_MUM_0026,SBI,Mumbai MMR,Andheri East MIDC,400069,19.08337,73.04662,BR_SBI_069,1218,7,100000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0027,ICICI Bank,Mumbai MMR,Andheri East MIDC,400069,19.06528,73.0428,BR_ICI_069,299,8,50000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0028,SBI,Mumbai MMR,Thane Naupada,400602,19.10489,73.03146,BR_SBI_602,2130,0,20000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0029,HDFC Bank,Mumbai MMR,Thane Naupada,400602,19.01495,73.01822,BR_HDF_602,1058,9,20000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0030,Kotak Mahindra Bank,Mumbai MMR,Vashi Sector 17,400703,19.12841,72.94024,BR_KOT_703,1336,3,40000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0031,Kotak Mahindra Bank,Mumbai MMR,Andheri East MIDC,400069,19.14777,72.889,BR_KOT_069,88,1,100000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0032,HDFC Bank,Mumbai MMR,Thane Naupada,400602,19.04689,72.881,BR_HDF_602,1050,1,50000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0033,ICICI Bank,Mumbai MMR,Dadar West,400028,19.18342,72.98181,BR_ICI_028,2216,10,20000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0034,HDFC Bank,Mumbai MMR,Andheri East MIDC,400069,19.05818,73.02463,BR_HDF_069,1165,2,50000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0035,Bank of Baroda,Mumbai MMR,Andheri East MIDC,400069,19.15125,73.01617,BR_BAN_069,258,4,20000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0036,Punjab National Bank,Mumbai MMR,Bandra Kurla Complex,400051,19.00078,72.99736,BR_PUN_051,711,4,100000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0037,SBI,Mumbai MMR,Bandra Kurla Complex,400051,19.01655,73.02311,BR_SBI_051,197,8,50000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0038,Kotak Mahindra Bank,Mumbai MMR,Andheri East MIDC,400069,19.0092,72.90387,BR_KOT_069,1515,0,40000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0039,HDFC Bank,Mumbai MMR,Lower Parel,400013,19.17163,73.02335,BR_HDF_013,683,9,40000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0040,ICICI Bank,Mumbai MMR,Dadar West,400028,19.00545,72.98941,BR_ICI_028,1066,6,50000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0041,HDFC Bank,Mumbai MMR,Dadar West,400028,19.19188,73.01748,BR_HDF_028,1482,41,50000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0042,Axis Bank,Mumbai MMR,Bandra Kurla Complex,400051,19.14521,72.91165,BR_AXI_051,1193,1,50000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0043,Bank of Baroda,Mumbai MMR,Bandra Kurla Complex,400051,19.02538,73.04319,BR_BAN_051,206,28,20000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0044,Bank of Baroda,Mumbai MMR,Vashi Sector 17,400703,19.17301,72.92037,BR_BAN_703,1627,1,40000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0045,SBI,Mumbai MMR,Vashi Sector 17,400703,19.09593,72.93958,BR_SBI_703,857,10,50000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0046,HDFC Bank,Mumbai MMR,Vashi Sector 17,400703,19.20257,72.96333,BR_HDF_703,1280,1,50000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0047,Bank of Baroda,Mumbai MMR,Dadar West,400028,19.15339,72.94751,BR_BAN_028,762,36,50000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0048,SBI,Mumbai MMR,Lower Parel,400013,19.06312,72.91887,BR_SBI_013,1369,10,100000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0049,Canara Bank,Mumbai MMR,Vashi Sector 17,400703,19.04701,72.92883,BR_CAN_703,745,11,20000,False,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_MUM_0050,Bank of Baroda,Mumbai MMR,Bandra Kurla Complex,400051,19.18005,72.99276,BR_BAN_051,865,3,40000,True,Mumbai Police Cyber Command Unit (BKC Cyber PS)
+ATM_BEN_0051,SBI,Bengaluru,Indiranagar 100ft Rd,560038,13.04679,77.67225,BR_SBI_038,1747,7,40000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0052,Canara Bank,Bengaluru,Electronic City Phase 1,560100,12.8988,77.68121,BR_CAN_100,1791,18,40000,True,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0053,Canara Bank,Bengaluru,Koramangala 5th Block,560034,12.96148,77.73349,BR_CAN_034,1953,20,50000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0054,Kotak Mahindra Bank,Bengaluru,HSR Layout Sector 1,560102,12.93918,77.58183,BR_KOT_102,1111,7,40000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0055,Canara Bank,Bengaluru,MG Road,560001,12.89785,77.63797,BR_CAN_001,1162,3,50000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0056,HDFC Bank,Bengaluru,Indiranagar 100ft Rd,560038,12.88017,77.62661,BR_HDF_038,313,25,100000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0057,Bank of Baroda,Bengaluru,HSR Layout Sector 1,560102,12.94318,77.56245,BR_BAN_102,2442,6,20000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0058,Canara Bank,Bengaluru,Koramangala 5th Block,560034,13.03855,77.60972,BR_CAN_034,2254,6,40000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0059,Axis Bank,Bengaluru,Whitefield ITPL,560066,12.93717,77.5558,BR_AXI_066,1706,10,40000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0060,ICICI Bank,Bengaluru,HSR Layout Sector 1,560102,12.95682,77.73139,BR_ICI_102,161,10,20000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0061,ICICI Bank,Bengaluru,Electronic City Phase 1,560100,12.88635,77.60203,BR_ICI_100,1388,7,50000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0062,Punjab National Bank,Bengaluru,Electronic City Phase 1,560100,12.90045,77.56638,BR_PUN_100,263,46,50000,True,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0063,HDFC Bank,Bengaluru,MG Road,560001,12.85805,77.55621,BR_HDF_001,674,13,40000,True,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0064,Canara Bank,Bengaluru,MG Road,560001,12.87288,77.73955,BR_CAN_001,1560,4,40000,True,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0065,ICICI Bank,Bengaluru,Whitefield ITPL,560066,12.87162,77.55514,BR_ICI_066,1587,10,100000,True,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0066,HDFC Bank,Bengaluru,HSR Layout Sector 1,560102,12.98812,77.67545,BR_HDF_102,545,31,20000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0067,Kotak Mahindra Bank,Bengaluru,MG Road,560001,12.92411,77.65119,BR_KOT_001,2057,6,20000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0068,Bank of Baroda,Bengaluru,MG Road,560001,13.02832,77.64195,BR_BAN_001,2187,23,50000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0069,Canara Bank,Bengaluru,Electronic City Phase 1,560100,13.01515,77.66849,BR_CAN_100,404,3,50000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0070,Axis Bank,Bengaluru,Electronic City Phase 1,560100,12.96397,77.68364,BR_AXI_100,1381,7,40000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0071,Axis Bank,Bengaluru,Whitefield ITPL,560066,13.00957,77.61807,BR_AXI_066,1181,11,20000,True,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0072,HDFC Bank,Bengaluru,Indiranagar 100ft Rd,560038,12.99401,77.64772,BR_HDF_038,2000,11,100000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0073,SBI,Bengaluru,Koramangala 5th Block,560034,12.90885,77.63088,BR_SBI_034,1988,35,50000,False,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0074,Bank of Baroda,Bengaluru,Whitefield ITPL,560066,12.99057,77.60418,BR_BAN_066,838,1,50000,True,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_BEN_0075,ICICI Bank,Bengaluru,Indiranagar 100ft Rd,560038,12.89328,77.64684,BR_ICI_038,2494,8,50000,True,"CID Cyber Crime Division (Carlton House, Palace Road, Bengaluru)"
+ATM_HYD_0076,Axis Bank,Hyderabad,Gachibowli Financial Dist,500032,17.38412,78.38589,BR_AXI_032,568,46,50000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0077,SBI,Hyderabad,Secunderabad Clock Tower,500003,17.39382,78.53882,BR_SBI_003,470,7,20000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0078,Canara Bank,Hyderabad,Banjara Hills Rd 12,500034,17.41607,78.38687,BR_CAN_034,517,42,20000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0079,Canara Bank,Hyderabad,Hitec City Phase 2,500081,17.43655,78.48729,BR_CAN_081,1294,48,20000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0080,HDFC Bank,Hyderabad,Secunderabad Clock Tower,500003,17.46467,78.47126,BR_HDF_003,2190,3,100000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0081,Canara Bank,Hyderabad,Gachibowli Financial Dist,500032,17.47902,78.54801,BR_CAN_032,296,9,20000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0082,Axis Bank,Hyderabad,Gachibowli Financial Dist,500032,17.44906,78.38141,BR_AXI_032,691,16,20000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0083,Canara Bank,Hyderabad,Begumpet,500016,17.43907,78.40825,BR_CAN_016,1909,30,20000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0084,Punjab National Bank,Hyderabad,Begumpet,500016,17.43847,78.51078,BR_PUN_016,2280,19,40000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0085,Punjab National Bank,Hyderabad,Madhapur Police Lines,500033,17.36071,78.38318,BR_PUN_033,2381,11,50000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0086,HDFC Bank,Hyderabad,Banjara Hills Rd 12,500034,17.4533,78.48995,BR_HDF_034,2261,8,100000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0087,HDFC Bank,Hyderabad,Secunderabad Clock Tower,500003,17.35598,78.43641,BR_HDF_003,155,4,20000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0088,SBI,Hyderabad,Begumpet,500016,17.47321,78.46525,BR_SBI_016,1977,2,100000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0089,ICICI Bank,Hyderabad,Secunderabad Clock Tower,500003,17.41538,78.51285,BR_ICI_003,1475,7,100000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0090,Bank of Baroda,Hyderabad,Begumpet,500016,17.36569,78.38216,BR_BAN_016,1230,7,100000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0091,Canara Bank,Hyderabad,Hitec City Phase 2,500081,17.39718,78.41465,BR_CAN_081,2157,6,20000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0092,Kotak Mahindra Bank,Hyderabad,Hitec City Phase 2,500081,17.37814,78.42236,BR_KOT_081,1860,10,20000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0093,Punjab National Bank,Hyderabad,Secunderabad Clock Tower,500003,17.36965,78.40761,BR_PUN_003,547,7,20000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0094,ICICI Bank,Hyderabad,Gachibowli Financial Dist,500032,17.43263,78.46045,BR_ICI_032,1940,19,20000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0095,Canara Bank,Hyderabad,Begumpet,500016,17.39378,78.49108,BR_CAN_016,1984,7,40000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0096,ICICI Bank,Hyderabad,Banjara Hills Rd 12,500034,17.37859,78.46988,BR_ICI_034,335,2,50000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0097,Bank of Baroda,Hyderabad,Secunderabad Clock Tower,500003,17.39008,78.35051,BR_BAN_003,2425,9,100000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0098,Canara Bank,Hyderabad,Secunderabad Clock Tower,500003,17.42265,78.41649,BR_CAN_003,1915,6,50000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0099,Axis Bank,Hyderabad,Secunderabad Clock Tower,500003,17.40745,78.5212,BR_AXI_003,1987,5,100000,False,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_HYD_0100,ICICI Bank,Hyderabad,Banjara Hills Rd 12,500034,17.49472,78.37525,BR_ICI_034,461,5,100000,True,Cyberabad Police Commissionerate Cyber Cell (Gachibowli)
+ATM_KOL_0101,Canara Bank,Kolkata,Salt Lake Sector V,700091,22.58669,88.382,BR_CAN_091,356,2,100000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0102,Bank of Baroda,Kolkata,Rajarhat Chinar Park,700136,22.58312,88.42997,BR_BAN_136,2235,10,100000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0103,Canara Bank,Kolkata,Rajarhat Chinar Park,700136,22.50431,88.31368,BR_CAN_136,981,4,20000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0104,HDFC Bank,Kolkata,Salt Lake Sector V,700091,22.55324,88.4388,BR_HDF_091,1378,0,20000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0105,Bank of Baroda,Kolkata,Park Street,700016,22.55168,88.34884,BR_BAN_016,787,10,40000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0106,HDFC Bank,Kolkata,Rajarhat Chinar Park,700136,22.6045,88.42394,BR_HDF_136,1001,21,100000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0107,Canara Bank,Kolkata,Park Street,700016,22.58002,88.47978,BR_CAN_016,2288,4,40000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0108,Canara Bank,Kolkata,Park Street,700016,22.61852,88.35983,BR_CAN_016,1074,11,100000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0109,Axis Bank,Kolkata,Howrah Station South,700001,22.6024,88.32133,BR_AXI_001,2404,5,50000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0110,SBI,Kolkata,Howrah Station South,700001,22.53294,88.41319,BR_SBI_001,250,11,100000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0111,Axis Bank,Kolkata,Rajarhat Chinar Park,700136,22.59623,88.3438,BR_AXI_136,610,28,20000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0112,Punjab National Bank,Kolkata,Howrah Station South,700001,22.504,88.37297,BR_PUN_001,1388,30,100000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0113,Axis Bank,Kolkata,New Town Action Area 1,700156,22.59438,88.47529,BR_AXI_156,1166,8,40000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0114,Canara Bank,Kolkata,Park Street,700016,22.58959,88.36774,BR_CAN_016,626,16,40000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0115,Bank of Baroda,Kolkata,Salt Lake Sector V,700091,22.59488,88.30278,BR_BAN_091,1559,7,50000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0116,Bank of Baroda,Kolkata,Salt Lake Sector V,700091,22.58098,88.3943,BR_BAN_091,1393,8,40000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0117,Canara Bank,Kolkata,Park Street,700016,22.57791,88.32334,BR_CAN_016,1296,14,100000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0118,HDFC Bank,Kolkata,New Town Action Area 1,700156,22.60647,88.32713,BR_HDF_156,2262,10,100000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0119,Kotak Mahindra Bank,Kolkata,Salt Lake Sector V,700091,22.60004,88.42313,BR_KOT_091,184,4,50000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0120,Canara Bank,Kolkata,Howrah Station South,700001,22.61407,88.47109,BR_CAN_001,2280,35,50000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0121,Kotak Mahindra Bank,Kolkata,Park Street,700016,22.52278,88.32443,BR_KOT_016,425,7,40000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0122,SBI,Kolkata,Park Street,700016,22.52923,88.32518,BR_SBI_016,2320,1,40000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0123,Axis Bank,Kolkata,Park Street,700016,22.59292,88.45773,BR_AXI_016,642,4,40000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0124,ICICI Bank,Kolkata,Salt Lake Sector V,700091,22.57933,88.30516,BR_ICI_091,2461,27,50000,True,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_KOL_0125,ICICI Bank,Kolkata,Park Street,700016,22.50629,88.44834,BR_ICI_016,310,11,100000,False,"Kolkata Police Cyber Police Station (Lalbazar, Kolkata)"
+ATM_AHM_0126,Bank of Baroda,Ahmedabad,SG Highway Bodakdev,380054,23.08136,72.53323,BR_BAN_054,2185,11,50000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0127,SBI,Ahmedabad,SG Highway Bodakdev,380054,23.17975,72.62709,BR_SBI_054,2058,1,100000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0128,HDFC Bank,Ahmedabad,Navrangpura CG Road,380009,23.10949,72.50985,BR_HDF_009,2447,10,50000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0129,Punjab National Bank,Ahmedabad,Gandhinagar Infocity,382007,23.091,72.56453,BR_PUN_007,2308,1,40000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0130,Canara Bank,Ahmedabad,Vastrapur Lake Road,380015,23.07449,72.62411,BR_CAN_015,439,11,50000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0131,Bank of Baroda,Ahmedabad,Navrangpura CG Road,380009,23.06737,72.5229,BR_BAN_009,423,1,20000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0132,Kotak Mahindra Bank,Ahmedabad,SG Highway Bodakdev,380054,23.13403,72.5559,BR_KOT_054,2452,15,50000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0133,Kotak Mahindra Bank,Ahmedabad,Navrangpura CG Road,380009,23.15725,72.64117,BR_KOT_009,260,11,50000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0134,Bank of Baroda,Ahmedabad,SG Highway Bodakdev,380054,23.10403,72.53191,BR_BAN_054,493,3,50000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0135,HDFC Bank,Ahmedabad,Navrangpura CG Road,380009,23.10334,72.62108,BR_HDF_009,2330,9,20000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0136,SBI,Ahmedabad,Vastrapur Lake Road,380015,23.04919,72.61436,BR_SBI_015,75,5,40000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0137,Kotak Mahindra Bank,Ahmedabad,SG Highway Bodakdev,380054,23.02554,72.59498,BR_KOT_054,931,45,100000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0138,Canara Bank,Ahmedabad,Navrangpura CG Road,380009,23.02833,72.54675,BR_CAN_009,2492,9,20000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0139,ICICI Bank,Ahmedabad,Vastrapur Lake Road,380015,23.1358,72.50746,BR_ICI_015,1786,40,100000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0140,Kotak Mahindra Bank,Ahmedabad,Navrangpura CG Road,380009,23.0388,72.57685,BR_KOT_009,1210,1,100000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0141,SBI,Ahmedabad,Vastrapur Lake Road,380015,23.07115,72.5899,BR_SBI_015,915,31,40000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0142,Punjab National Bank,Ahmedabad,Navrangpura CG Road,380009,23.0216,72.57461,BR_PUN_009,1607,2,40000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0143,HDFC Bank,Ahmedabad,Gandhinagar Infocity,382007,23.15512,72.50635,BR_HDF_007,1332,16,100000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0144,Kotak Mahindra Bank,Ahmedabad,Navrangpura CG Road,380009,23.02073,72.50313,BR_KOT_009,1934,9,50000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0145,Kotak Mahindra Bank,Ahmedabad,SG Highway Bodakdev,380054,23.0438,72.58833,BR_KOT_054,1320,6,50000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0146,Bank of Baroda,Ahmedabad,Vastrapur Lake Road,380015,23.01375,72.59498,BR_BAN_015,1481,3,50000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0147,Axis Bank,Ahmedabad,SG Highway Bodakdev,380054,23.02636,72.52959,BR_AXI_054,358,10,40000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0148,Canara Bank,Ahmedabad,Gandhinagar Infocity,382007,23.1226,72.63231,BR_CAN_007,1373,9,50000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0149,Canara Bank,Ahmedabad,SG Highway Bodakdev,380054,23.08441,72.59471,BR_CAN_054,280,9,50000,True,Gujarat CID Crime Cyber Cell (Gandhinagar)
+ATM_AHM_0150,Punjab National Bank,Ahmedabad,Gandhinagar Infocity,382007,23.08134,72.50853,BR_PUN_007,419,1,100000,False,Gujarat CID Crime Cyber Cell (Gandhinagar)
